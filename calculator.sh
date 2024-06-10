@@ -12,8 +12,15 @@
 
 
 
+
 # percentage
 
 
 
 # calculus
+
+
+
+
+# modulus
+
